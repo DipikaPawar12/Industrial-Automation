@@ -13,4 +13,4 @@
 
 ---
 
-| [Miracle Rindani](https://github.com/mrindani)                                                                                                                 | [Aanshi Patwari](https://github.com/aanshi18)                                               | [Dipika Pawar](https://github.com/DipikaPawar12)                                                               |[Manav Vagrecha](https://github.com/caped-crusader16) | [Akshay Bhimani](https://github.com/AkshayBhimani)  | [Mansi Dobariya](https://github.com/mansi-ctrl)
+| [Miracle Rindani](https://github.com/mrindani)                                                                                                                 | [Aanshi Patwari](https://github.com/aanshi18)                                               | [Dipika Pawar](https://github.com/DipikaPawar12)          |                                               
